@@ -1,2 +1,2 @@
 # Clone Github SubFolder
-Clone someone's subfolder of a certain github repository
+Clone someone's certain subfolder of the github repository
